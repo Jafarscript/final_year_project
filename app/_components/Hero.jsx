@@ -28,7 +28,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      <Image src='/dashboard.png' width={1000} height={1000} className="-mt-5 rounded-xl border-2" />
+      <Image src='/images/hero.png' width={1000} height={1000} className="-mt-5 rounded-xl border-2" />
     </section>
   );
 };
